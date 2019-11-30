@@ -7,4 +7,3 @@ Git tracks changes of files.
 test.
 Creating a new branch is quick and simple.
 dev working A，working B.
-
